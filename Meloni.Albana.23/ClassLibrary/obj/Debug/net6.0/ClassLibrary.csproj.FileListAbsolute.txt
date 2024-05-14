@@ -1,0 +1,11 @@
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\albi\source\repos\Meloni.Albana.23\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
